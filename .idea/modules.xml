@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/5week_Crime Scene Game/5week_Crime Scene Game.iml" filepath="$PROJECT_DIR$/5week_Crime Scene Game/5week_Crime Scene Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics_4week_v2.iml" filepath="$PROJECT_DIR$/Basics_4week_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crime Game/Crime Game.iml" filepath="$PROJECT_DIR$/Crime Game/Crime Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/Crime Scene Game.iml" filepath="$PROJECT_DIR$/untitled/Crime Scene Game.iml" />
+    </modules>
+  </component>
+</project>
